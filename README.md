@@ -1,16 +1,59 @@
-## Hi there 👋
+# Olá, eu sou o Sebastian Rodrigues
 
-<!--
-**sebstt7/sebstt7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Formação e Capacitação
+*   **Análise e Desenvolvimento de Sistemas** | UNISINOS
+*   **Residência Full Stack 5.0** | Instituto Eldorado (*Foco em desenvolvimento Back-end*)
+*    (Maio de 2026 – Dezembro de 2026 (7 meses))
+*   **Certificação em Pensamento Computacional com Python** | TIC trilhas e Instituto Eldorado
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">🛠️ Tecnologias e Ferramentas</h3>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+</div>
+
+---
+
+### 🎮 Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sebstt7/sebstt7/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sebstt7/sebstt7/output/github-contribution-grid-snake.svg">
+    <img alt="Pacman graph" src="https://raw.githubusercontent.com/sebstt7/sebstt7/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<h3 align="center">🌐 Conecte-se comigo</h3>
+
+<div align="center">
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://www.linkedin.com/in/sebstt7" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.com/users/SEU_ID" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+        </a>
+      </td>
+      <td>
+        <a href="mailto:sebastianrs771@gmail.com">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
