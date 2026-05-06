@@ -41,7 +41,7 @@
       </a>
     </td>
     <td>
-      <a href="https://discordapp.com/users/SEU_ID" target="_blank">
+      <a href="https://discordapp.com/users/sebstt7" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" />
       </a>
     </td>
