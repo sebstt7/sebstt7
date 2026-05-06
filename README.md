@@ -33,27 +33,22 @@
 </div>
 
 ---
-
-<h3 align="center">🌐 Conecte-se comigo</h3>
-
-<div align="center">
-  <table align="center">
-    <tr>
-      <td>
-        <a href="https://www.linkedin.com/in/sebstt7" target="_blank">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.com/users/SEU_ID" target="_blank">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-        </a>
-      </td>
-      <td>
-        <a href="mailto:sebastianrs771@gmail.com">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/sebstt7" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" />
+      </a>
+    </td>
+    <td>
+      <a href="https://discordapp.com/users/SEU_ID" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" />
+      </a>
+    </td>
+    <td>
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sebastianrs771@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" />
+      </a>
+    </td>
+  </tr>
+</table>
