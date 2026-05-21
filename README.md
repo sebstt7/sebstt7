@@ -1,9 +1,9 @@
 # Olá, eu sou o Sebastian Rodrigues
 
 ### 🎓 Formação e Capacitação
-*   **Análise e Desenvolvimento de Sistemas** | UNISINOS
+*   **Sistemas de Informação** | PUCRS
 *   **Residência Full Stack 5.0** | Instituto Eldorado (*Foco em desenvolvimento Back-end*)
-*    (Maio de 2026 – Dezembro de 2026 (7 meses))
+*    (Junho de 2026 – Dezembro de 2026 (7 meses))
 *   **Certificação em Pensamento Computacional com Python** | TIC trilhas e Instituto Eldorado
 
 ---
