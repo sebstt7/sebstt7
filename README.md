@@ -3,7 +3,7 @@
 ### 🎓 Formação e Capacitação
 *   **Análise e Desenvolvimento de Sistemas** | UNISINOS
 *   **Residência Full Stack 5.0** | Instituto Eldorado (*Foco em banco de dados*)
-*    (julho de 2026 – Dezembro de 2026 (7 meses))
+*    (julho de 2026 – Dezembro de 2026)
 *   **Certificação em Pensamento Computacional com Python** | TIC trilhas e Instituto Eldorado
 
 ---
